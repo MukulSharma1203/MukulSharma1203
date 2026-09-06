@@ -5,19 +5,19 @@ I'm a full-stack developer and CSE student at NSUT, passionate about building so
 
 <p align="left">
   <a href="https://leetcode.com/u/Mukul_1203/">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&height=35&color=1f1f1f&text=LEETCODE&fontColor=ffffff&fontSize=14&fontAlignY=50" />
+    <img src="./leetcode.svg">
   </a>
-  
+
   <a href="https://code-sync-tan-omega.vercel.app/">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&height=35&color=1f1f1f&text=CODESYNC&fontColor=ffffff&fontSize=14&fontAlignY=50" />
+    <img src="./codesync.svg">
   </a>
-  
+
   <a href="https://task-calander.vercel.app/">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&height=35&color=1f1f1f&text=TASKCALANDER&fontColor=ffffff&fontSize=14&fontAlignY=50" />
+    <img src="./taskcalander.svg">
   </a>
-  
+
   <a href="https://rtchat-weaw.onrender.com/">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&height=35&color=1f1f1f&text=RTCHAT&fontColor=ffffff&fontSize=14&fontAlignY=50" />
+    <img src="./rtchat.svg">
   </a>
 </p>
 
