@@ -42,9 +42,9 @@ I'm a full-stack developer and CSE student at NSUT, passionate about building so
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <br />
-
+#
 <details>
-<summary><strong>🚀 Mukul's Coding Journey</strong></summary>
+<summary><strong>🚀 My Coding Journey</strong></summary>
 
 I'm a CSE student at NSUT and a full-stack developer who likes learning by building and solving problems along the way. I started with the basics of programming and DSA, and gradually moved towards building complete applications and understanding how things work behind the scenes. I mainly work with Java and JavaScript, along with React, Node.js, Express, MongoDB, MySQL, REST APIs, and Socket.IO. I also spend a lot of time working in Linux and using tools like Git and GitHub.
 
