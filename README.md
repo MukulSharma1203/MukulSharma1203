@@ -5,23 +5,20 @@ I'm a full-stack developer and CSE student at NSUT, passionate about building so
 
 <p align="left">
   <a href="https://leetcode.com/u/Mukul_1203/">
-    <img src="https://img.shields.io/badge/LEETCODE-1f1f1f?style=flat-square&logo=leetcode&logoColor=orange" />
-  </a>
+  <img src="https://img.shields.io/badge/LEETCODE-1f1f1f?style=flat-square&logo=leetcode&logoColor=orange" />
+</a>
 
-  <a href="https://code-sync-tan-omega.vercel.app/">
-    <img src="https://img.icons8.com/?size=100&id=DWNklAs2PRnu&format=png&color=000000" width="24"/>
-    <b>CODESYNC</b>
-  </a>
+<a href="https://code-sync-tan-omega.vercel.app/">
+  <img src="https://img.shields.io/badge/CODESYNC-1f1f1f?style=flat-square&logo=visualstudiocode&logoColor=61DAFB" />
+</a>
 
-  <a href="https://task-calander.vercel.app/">
-    <img src="https://img.icons8.com/?size=100&id=cGcRDueIKQkF&format=png&color=000000" width="24"/>
-    <b>TASKCALANDER</b>
-  </a>
+<a href="https://task-calander.vercel.app/">
+  <img src="https://img.shields.io/badge/TASKCALANDER-1f1f1f?style=flat-square&logo=googlecalendar&logoColor=4285F4" />
+</a>
 
-  <a href="https://rtchat-weaw.onrender.com/">
-    <img src="https://img.icons8.com/?size=100&id=111133&format=png&color=000000" width="24"/>
-    <b>RTCHAT</b>
-  </a>
+<a href="https://rtchat-weaw.onrender.com/">
+  <img src="https://img.shields.io/badge/RTCHAT-1f1f1f?style=flat-square&logo=socketdotio&logoColor=white" />
+</a>
 </p>
 
 ---
