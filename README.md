@@ -5,18 +5,23 @@ I'm a full-stack developer and CSE student at NSUT, passionate about building so
 
 <p align="left">
   <a href="https://leetcode.com/u/Mukul_1203/">
-    <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="24"/>
+    <b>LeetCode</b>
   </a>
+  &nbsp;&nbsp;
   <a href="https://code-sync-tan-omega.vercel.app/">
-    <img src="https://img.icons8.com/?size=100&id=DWNklAs2PRnu&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=100&id=DWNklAs2PRnu&format=png&color=000000" width="24"/>
+    <b>CodeSync</b>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://task-calander.vercel.app/">
-    <img src="https://img.icons8.com/?size=100&id=cGcRDueIKQkF&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=100&id=cGcRDueIKQkF&format=png&color=000000" width="24"/>
+    <b>TaskCalander</b>
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://rtchat-weaw.onrender.com/">
-    <img src="https://img.icons8.com/?size=100&id=111133&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=100&id=111133&format=png&color=000000" width="24"/>
+    <b>RTChat</b>
   </a>
 </p>
 
