@@ -42,3 +42,14 @@ I'm a full-stack developer and CSE student at NSUT, passionate about building so
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <br />
+
+<details>
+<summary><strong>🚀 Mukul's Coding Journey</strong></summary>
+
+I'm a CSE student at NSUT and a full-stack developer who likes learning by building and solving problems along the way. I started with the basics of programming and DSA, and gradually moved towards building complete applications and understanding how things work behind the scenes. I mainly work with Java and JavaScript, along with React, Node.js, Express, MongoDB, MySQL, REST APIs, and Socket.IO. I also spend a lot of time working in Linux and using tools like Git and GitHub.
+
+Most of what I learn comes from the projects I build. CodeSync started as an idea and turned into a real-time collaborative code editor where multiple users can work together, with authentication, role-based access, file management, and code execution. TaskCalander came from a problem I personally wanted to solve — having a simple way to organize my day, keep track of tasks, and look back at how I actually spend my time. Working on these projects has helped me understand much more than just writing code, especially when it comes to connecting the frontend, backend, databases, APIs, and real-time communication into one working system.
+
+I also enjoy DSA and problem solving because they force me to think about a problem before writing the solution. At the same time, I like tackling problems I face in real life and seeing if I can solve them with something I've built myself. Linux, development, DSA, and personal projects have all become part of the same learning process for me. I learn something, build something with it, run into problems, fix them, and move on to the next thing. That's pretty much how my coding journey has been so far.
+
+</details>
