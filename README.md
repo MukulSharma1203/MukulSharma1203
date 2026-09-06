@@ -5,20 +5,20 @@ I'm a full-stack developer and CSE student at NSUT, passionate about building so
 
 <p align="left">
   <a href="https://leetcode.com/u/Mukul_1203/">
-  <img src="https://img.shields.io/badge/LEETCODE-1f1f1f?style=flat-square&logo=leetcode&logoColor=orange" />
-</a>
-
-<a href="https://code-sync-tan-omega.vercel.app/">
-  <img src="https://img.shields.io/badge/CODESYNC-1f1f1f?style=flat-square&logo=visualstudiocode&logoColor=61DAFB" />
-</a>
-
-<a href="https://task-calander.vercel.app/">
-  <img src="https://img.shields.io/badge/TASKCALANDER-1f1f1f?style=flat-square&logo=googlecalendar&logoColor=4285F4" />
-</a>
-
-<a href="https://rtchat-weaw.onrender.com/">
-  <img src="https://img.shields.io/badge/RTCHAT-1f1f1f?style=flat-square&logo=socketdotio&logoColor=white" />
-</a>
+    <img src="https://capsule-render.vercel.app/api?type=rounded&height=35&color=1f1f1f&text=LEETCODE&fontColor=ffffff&fontSize=14&fontAlignY=50" />
+  </a>
+  
+  <a href="https://code-sync-tan-omega.vercel.app/">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&height=35&color=1f1f1f&text=CODESYNC&fontColor=ffffff&fontSize=14&fontAlignY=50" />
+  </a>
+  
+  <a href="https://task-calander.vercel.app/">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&height=35&color=1f1f1f&text=TASKCALANDER&fontColor=ffffff&fontSize=14&fontAlignY=50" />
+  </a>
+  
+  <a href="https://rtchat-weaw.onrender.com/">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&height=35&color=1f1f1f&text=RTCHAT&fontColor=ffffff&fontSize=14&fontAlignY=50" />
+  </a>
 </p>
 
 ---
