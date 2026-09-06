@@ -5,8 +5,7 @@ I'm a full-stack developer and CSE student at NSUT, passionate about building so
 
 <p align="left">
   <a href="https://leetcode.com/u/Mukul_1203/">
-    <img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="24"/>
-    <b>LEETCODE</b>
+    <img src="https://img.shields.io/badge/LEETCODE-1f1f1f?style=flat-square&logo=leetcode&logoColor=orange" />
   </a>
 
   <a href="https://code-sync-tan-omega.vercel.app/">
